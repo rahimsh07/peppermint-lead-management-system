@@ -40,6 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## developer comment
 
-I used Next.js, shadCN, tRPC, and MongoDB for the project. As a creative addition, I included a WhatsApp button that redirects users directly to WhatsApp.
+I used Next.js, shadCN, tRPC, and MongoDB for the project. As a creative addition, I included a WhatsApp button that redirects users directly to WhatsApp. And i used ai for the UI part
 
 For the Question asked about feature, I think to add import/export functionality along with WhatsApp and email marketing options.

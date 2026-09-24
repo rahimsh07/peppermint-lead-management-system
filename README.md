@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+use env variables MONGODB_URI=mongodb+srv://twicelyrics958_db_user:oohTFaTZxyRkwioV@cluster0.knlvumh.mongodb.net/leads?appName=Cluster0
+
 First, run the development server:
 
 ```bash
@@ -38,6 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## developer comment
 
+I used Next.js, shadCN, tRPC, and MongoDB for the project. As a creative addition, I included a WhatsApp button that redirects users directly to WhatsApp.
 
-
-and about the question you asked in last my answers will import export 
+For the Question asked about feature, I think to add import/export functionality along with WhatsApp and email marketing options.
